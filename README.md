@@ -1,2 +1,3 @@
 # PythonTraining
-Training
+Training Class
+
