@@ -1,3 +1,3 @@
 # PythonTraining
-Training Class
+Training Class Hello World
 
