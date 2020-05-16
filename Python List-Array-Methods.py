@@ -7,3 +7,7 @@ print(fruits)
 fruits.append("orange")
 print(fruits)
 
+Python List clear() Method
+fruits1 = ["apple", "banana", "cherry"]
+fruits1.clear()
+print(fruits1)
